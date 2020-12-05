@@ -21,6 +21,7 @@ func main() {
 		countPerSlope(rows, 1, 7) *
 		countPerSlope(rows, 2, 1)
 
+	println(countPerSlope(rows, 1, 3))
 	println(result)
 }
 
